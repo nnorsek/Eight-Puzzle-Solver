@@ -1,6 +1,3 @@
-Certainly! Here's a sample README for your Eight Puzzle Solver program:
-
----
 
 # Eight Puzzle Solver
 
