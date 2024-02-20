@@ -28,7 +28,7 @@ To run the Eight Puzzle Solver program, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Compile the Java source files using a Java compiler.
-3. Run the `EightPuzzleSolver` class file to start the program.
+3. Run the `EightPuzzleSolver` with the `PuzzleState` class file to start the program.
 4. Follow the on-screen instructions to input the initial state of the puzzle and view the solution path.
 
 ## Contributors
